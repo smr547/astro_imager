@@ -8,6 +8,7 @@ The CAM87 design evolved from the work on CAM86 and was introduced to the commun
 * [Latest schematic](http://www.astroclub.kiev.ua/forum/index.php?action=dlattach;topic=28929.0;attach=133214)
 * [BOM](http://www.astroclub.kiev.ua/forum/index.php?action=dlattach;topic=28929.0;attach=133215)
 * [Gerber zip file](http://www.astroclub.kiev.ua/forum/index.php?action=dlattach;topic=28929.0;attach=132386)
+* [Close up photos of the board](https://drive.google.com/drive/folders/1qsbS63WwCdgCBYSyyeyrHQwvRcVLLbKB)
 
 ## Design comments
 
