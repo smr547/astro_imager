@@ -5,10 +5,18 @@ The CAM87 design evolved from the work on CAM86 and was introduced to the commun
 
 ## Hardware
 
-* [Latest schematic](http://www.astroclub.kiev.ua/forum/index.php?action=dlattach;topic=28929.0;attach=133214)
+* [Latest schematic](http://www.astroclub.kiev.ua/forum/index.php?action=dlattach;topic=28929.0;attach=133448) 
+(possible later schematic [here](https://drive.google.com/drive/folders/1qsbS63WwCdgCBYSyyeyrHQwvRcVLLbKB))
 * [BOM](http://www.astroclub.kiev.ua/forum/index.php?action=dlattach;topic=28929.0;attach=133215)
 * [Gerber zip file](http://www.astroclub.kiev.ua/forum/index.php?action=dlattach;topic=28929.0;attach=132386)
 * [Close up photos of the board](https://drive.google.com/drive/folders/1qsbS63WwCdgCBYSyyeyrHQwvRcVLLbKB)
+* [Sensor from AliExpress](https://ru.aliexpress.com/item/32844562095.html?spm=a2g0o.cart.0.0.654c3c00IOzOuq&mp=1)
+
+Note:
+
+```
+... we found another mistake in the circuit - the CLKOUT signal from the 3 foot of FT2232 goes to the 5th foot of the STM32.
+```
 
 ## Design comments
 
